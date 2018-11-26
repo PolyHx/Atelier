@@ -64,6 +64,13 @@ git commit -m "Configurations d'Elastic Beanstalk"
 
 Elastic Beanstalk envoie le code du dernier commit de git sur le serveur. Il est donc important de toujour commit le nouveau code que nous voulons déployer!
 
+## Contruire l'application Angular
+```
+npm run build
+```
+
+Cette étape est très importante, car elle permet de contruire notre application en mode production. Cette opération optimise le code et le rend lisible par un navigateur web.
+
 ## Création d'une configuration Elastic Beanstalk
 ``` bash
 eb create Nom de la config
