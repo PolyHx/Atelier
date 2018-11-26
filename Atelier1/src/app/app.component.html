@@ -1,0 +1,23 @@
+<nav class="navbar navbar-light bg-light">
+  <a class="navbar-brand">Navbar</a>
+  <div class="form-inline">
+    <input class="form-control mr-sm-2" [(ngModel)]="searchInput"
+           type="search" placeholder="Search" aria-label="Search">
+  </div>
+</nav>
+<div class="container-fluid">
+
+  <div class="row">
+    <div class="col-sm-4 mt-2" *ngFor="let beer of getFilteredBeers()">
+      <div class="card">
+        <div class="card-header">{{ beer.name }}</div>
+        <div class="card-body">
+          <img [src]="beer.image_url" class="card-img-top">
+        </div>
+        <div class="card-footer">
+          Prix: <span class="badge badge-primary">{{ beer.price | number: "1.2" }}$</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
