@@ -1,7 +1,7 @@
 # Déployer une application Web sur AWS (Elastic Beanstalk)
 
 ## Avant de commencer
-Vous devez installer le CLI (command line interface) de Elastic Beanstalk.
+Vous devez installer le CLI (command line interface) de Elastic Beanstalk. [Instruction ici](INSTALL.md)
 
 ## Initialisation
 ```
