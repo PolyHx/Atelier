@@ -1,0 +1,130 @@
+{
+    "beers": [
+        {
+            "name": "Bleue Dry",
+            "price": 2,
+            "alcohol_percentage": 0.061,
+            "volume": 0.355,
+            "image_url": "https://product-images.metro.ca/images/h4e/hbf/8881866375198.jpg"
+        },
+        {
+            "name": "Labatt Bleue",
+            "price": 2,
+            "alcohol_percentage": 0.049,
+            "volume": 0.355,
+            "image_url": "https://product-images.metro.ca/images/h85/h93/8814341390366.jpg"
+        },
+        {
+            "name": "Michelob Ultra Sleek",
+            "price": 2,
+            "alcohol_percentage": 0.040,
+            "volume": 0.355,
+            "image_url": "https://www.liquormarts.ca/sites/mlcc_public_website/files/styles/product_fullsize/public/product/15494_product_front.png?itok=_8iLMFGR"
+        },
+        {
+            "name": "Budweiser",
+            "price": 2,
+            "alcohol_percentage": 0.050,
+            "volume": 0.355,
+            "image_url": "https://www.dollargeneral.com/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/1/6/1610201_budweiser12pk12ozbottle_main.jpg"
+        },
+        {
+            "name": "Bud Light",
+            "price": 2,
+            "alcohol_percentage": 0.040,
+            "volume": 0.355,
+            "image_url": "https://www.dollargeneral.com/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/0/1/01609401_budlight12pk12ozbottle_main.jpg"
+        },
+        {
+            "name": "Leffe Brune",
+            "price": 3,
+            "alcohol_percentage": 0.066,
+            "volume": 0.330,
+            "image_url": "http://www.lcbo.com/content/dam/lcbo/products/068049-A.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+        },
+        {
+            "name": "Leffe Blonde",
+            "price": 3,
+            "alcohol_percentage": 0.065,
+            "volume": 0.330,
+            "image_url": "http://www.lcbo.com/content/dam/lcbo/products/084012-A.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+        },
+        {
+            "name": "Hoegaarden",
+            "price": 3,
+            "alcohol_percentage": 0.050,
+            "volume": 0.330,
+            "image_url": "https://applejack.com/site/images/Hoegaarden-6pk-11-oz-Bottles_1.png"
+        },
+        {
+            "name": "Beck's",
+            "price": 3,
+            "alcohol_percentage": 0.040,
+            "volume": 0.330,
+            "image_url": "https://applejack.com/site/images/Becks-12pk-12-oz-Bottles_1.png"
+        },
+        {
+            "name": "Corona",
+            "price": 2.5,
+            "alcohol_percentage": 0.046,
+            "volume": 0.330,
+            "image_url": "https://www.ocado.com/productImages/300/300787011_0_640x640.jpg?identifier=400947d1609778b2085b6a0378de854d"
+        },
+        {
+            "name": "Rolling Rock",
+            "price": 2.5,
+            "alcohol_percentage": 0.045,
+            "volume": 0.355,
+            "image_url": "https://pikfly.com/images/products/149/24597.jpg"
+        },
+        {
+            "name": "Labatt 50",
+            "price": 2.5,
+            "alcohol_percentage": 0.050,
+            "volume": 0.355,
+            "image_url": "https://az836796.vo.msecnd.net/media/image/product/en/medium/0006206711101.jpg"
+        },
+        {
+            "name": "Bud Light Apple",
+            "price": 2.5,
+            "alcohol_percentage": 0.040,
+            "volume": 0.355,
+            "image_url": "https://www.liquormarts.ca/sites/mlcc_public_website/files/styles/product_fullsize/public/product/18419_c10a4dae88029e6c0829c8b2a09047c9_0.png?itok=NV7KOJM6"
+        },
+        {
+            "name": "Alexander Keith's IPA",
+            "price": 2.5,
+            "alcohol_percentage": 0.050,
+            "volume": 0.355,
+            "image_url": "https://images-nitrosell-com.akamaized.net/product_images/25/6073/large-12b%20alexander%20keith%27s%20ipa.png"
+        },
+        {
+            "name": "Alexander Keith's Red",
+            "price": 2.5,
+            "alcohol_percentage": 0.050,
+            "volume": 0.355,
+            "image_url": "http://www.lcbo.com/content/dam/lcbo/products/688051-A.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+        },
+        {
+            "name": "Shock Top Belgian White",
+            "price": 2.5,
+            "alcohol_percentage": 0.052,
+            "volume": 0.355,
+            "image_url": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_fbb993d0-10b5-45c6-a62e-ac82e105aff6.JPG"
+        },
+        {
+            "name": "Modelo Especial",
+            "price": 3,
+            "alcohol_percentage": 0.045,
+            "volume": 0.355,
+            "image_url": "http://liquorpei.com/wp-content/themes/peiliquor/bottle-shots/84038R.jpg"
+        },
+        {
+            "name": "Stella Artois",
+            "price": 2.5,
+            "alcohol_percentage": 0.050,
+            "volume": 0.330,
+            "image_url": "https://applejack.com/site/images/Stella-Artois-11-oz-Btls_main-1.png"
+        }
+    ]
+}
