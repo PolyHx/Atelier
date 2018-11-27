@@ -1,11 +1,12 @@
 const http = require('http')
 const express = require('express');
 const path = require('path');
+const compression = require('compression')
 const app = express();
 
-const port = process.env.PORT || 3000;
-const project = require(path.join(__dirname, '../angular.json'));
+app.use(compression())
 
+const project = require(path.join(__dirname, '../angular.json'));
 app.use(express.static(path.join(__dirname, '../dist', project.defaultProject)));
 
 app.get('/', function (req, res) {
@@ -13,6 +14,8 @@ app.get('/', function (req, res) {
 });
 
 let server = http.createServer(app);
+
+const port = process.env.PORT || 3000;
 server.listen(port);
 server.on('error', onError);
 server.on('listening', onListening);
